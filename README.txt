@@ -1,3 +1,1 @@
-Made by fewly1 MLS.
-
-Checkout my channel "fewly1 MLS"
+Betternet Hack by fewly1
