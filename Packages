@@ -51,3 +51,15 @@ Filename: ./debs/starvpn.deb
 Size: 5334
 MD5sum: cb1a2a53c83abc1dc1cff00054354fc6
 
+Package: facetune2patch
+Name: Facetune 2 hack
+Author: Randy420 <(null)>
+Description: Facetune Pro Free 
+Depends: mobilesubstrate
+Maintainer: fewly1 <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/facetune2.deb
+Size: 4720
+MD5sum: 6ee0241e8116b41a16bb11243997a3d5

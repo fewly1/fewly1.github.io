@@ -1,10 +1,11 @@
 Origin: fewly1
 Label: fewly1
 Suite: stable
-Version: 1.1
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: http://fewly1.github.io
+Description: http://fewly1.github.i0
+
 
 
