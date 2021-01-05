@@ -1,0 +1,25 @@
+Package: betternethackbyyanetgarciaakamiksterx
+Name: Betternet Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer:  Yanet Garcia/MiksterX
+Author:  Yanet Garcia/MiksterX
+Section: Tweaks
+Version: 0.0.1-3
+Filename: ./debs/hackfreefire.deb
+Size: 4730
+MD5sum: ce1f7510fa889f57d8e22f06b9ccfb78
+
+ackage: iosgodsiapcracker
+Name: iAP Cracker
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Free iAP Purchase for some apps and games
+Maintainer: Laxus
+Author: Laxus
+Section: Tweaks
+Version: 1.0-2
+ilename: ./debs/iAPCRACKER.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
