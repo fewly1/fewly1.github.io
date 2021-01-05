@@ -1,4 +1,4 @@
-Package: betternethackbyyanetgarciaakamiksterx
+Package: com.fewly1.betternethack
 Name: Betternet Hack
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -11,7 +11,7 @@ Filename: ./debs/hackfreefire.deb
 Size: 4730
 MD5sum: ce1f7510fa889f57d8e22f06b9ccfb78
 
-Package: WildRiftVNG
+Package: com.fewly1.WildRiftVNG
 Name: Lien Minh Toc Chien
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -25,7 +25,7 @@ Filename: ./debs/lienminhtocchien,deb
 Size: 2417280
 Md5sum: 7f8f8bee761ad5ca48913235eaa86564
 
-Package: cercubemodeforyoutube
+Package: com.fewly1.cercubemodeforyoutube
 Name: Cercube Mode For YouTube
 Author: ElvinStar 
 Description: Remove COMPLETELY ALL ads in YouTube!!
@@ -38,7 +38,7 @@ Filename: ./debs/cercubemod.deb
 Size: 4190
 MD5sum: a81d1b1d9df6d53cf23af6f6e733aa4b
 
-Package: starvpnpatch
+Package: com.fewly1.starvpnpatch
 Name: Star VPN hack
 Author: Randy420 <(null)>
 Description: Starvpn Premium free 
@@ -51,7 +51,7 @@ Filename: ./debs/starvpn.deb
 Size: 5334
 MD5sum: cb1a2a53c83abc1dc1cff00054354fc6
 
-Package: facetune2patch
+Package: com.fewly1.facetune2patch
 Name: Facetune 2 hack
 Author: Randy420 <(null)>
 Description: Facetune Pro Free 
