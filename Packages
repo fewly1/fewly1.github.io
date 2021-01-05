@@ -77,3 +77,21 @@ Version: 1.0.7.3
 Filename: ./debs/youtubereborn.deb
 Size: 106544
 MD5sum: 70954b2823388f985cac1f5d8e6799db
+
+Package: com.fewly1.safariplus
+Name: Safari Plus
+Depends: mobilesubstrate
+Conflicts: com.fewly1.safariplus
+Architecture: iphoneos-arm
+Description: Various enhancements to Safari!
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
+Homepage: https://fewly1.github.io/
+Maintainer: opa334 <opa334@protonmail.com>
+Author: opa334 <opa334@protonmail.com>
+Section: Tweaks
+Version: 1.7.14
+Filename: ./debs/SafariPlus.deb
+Size: 1165016
+MD5sum: 0eda6ac619d5a75b545ffd19ebc0681f
+
