@@ -1,0 +1,29 @@
+
+Package: com.fewly1.FirstRelease
+Version: 1.0
+Section: Tweaks
+Maintainer: fewly1 <thaobao1111gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 3826 
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: This is a test package.
+Name: Test package
+Author: fewly1 <thaobao1111@gmail.com>
+Depiction: A Test tweak
+
+Package: socialdownloader
+Name: Social Downloader
+Version: 1.2-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 1744
+Author: elias
+Maintainer: elias
+Description: tai videos free social
+Size: 376630
+MD5sum: 64a2806148602bc9b272b52036633ae0
+Filename: ./debs/SocialDownloader.deb
+Depiction: http://fewly1.giyhub.io/fewly1/depictions/?p=SocialDownloader
