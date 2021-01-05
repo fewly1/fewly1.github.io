@@ -42,3 +42,17 @@ Installed-Size: 2417280
 MD5sum: 7f8f8bee761ad5ca48913235eaa86564
 Filename: ./debs/lienminhtochien.deb
 Depiction: http://fewly1.giyhub.io/fewly1/depictions/?p=lienminhtochien
+
+Package: iosgodsiapcracker
+Name: iAP Cracker
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Free iAP Purchase for some apps and games
+Maintainer: Laxus
+Author: Laxus
+Section: Tweaks
+Version: 1.0-2
+Installed-Size: 18412
+ND5sum: f609fdef7758b9f6c5b544781c58ded7
+Filename: /debs/APCRACKER.deb
+Depiction: http://fewly1.giyhub.io/fewly1/depictions/?p=iAPCRACKER
