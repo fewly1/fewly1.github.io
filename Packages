@@ -84,7 +84,7 @@ Depends: mobilesubstrate
 Conflicts: com.fewly1.safariplus
 Architecture: iphoneos-arm
 Description: Various enhancements to Safari!
-Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Depiction: safari plus
 Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
 Homepage: https://fewly1.github.io/
 Maintainer: opa334 <opa334@protonmail.com>
