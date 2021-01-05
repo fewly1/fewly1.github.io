@@ -37,3 +37,17 @@ Version: 1.0.0
 Filename: ./debs/cercubemod.deb
 Size: 4190
 MD5sum: a81d1b1d9df6d53cf23af6f6e733aa4b
+
+Package: starvpnpatch
+Name: Star VPN hack
+Author: Randy420 <(null)>
+Description: Starvpn Premium free 
+Depends: mobilesubstrate
+Maintainer: fewly1 <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/starvpn.deb
+Size: 5334
+MD5sum: cb1a2a53c83abc1dc1cff00054354fc6
+
