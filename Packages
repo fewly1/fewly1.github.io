@@ -63,3 +63,18 @@ Version: 0.0.1
 Filename: ./debs/facetune2.deb
 Size: 4720
 MD5sum: 6ee0241e8116b41a16bb11243997a3d5
+
+Package: com.fewly1.youtube-reborn
+Name: YouTube Reborn--
+Architecture: iphoneos-arm
+Description: YouTube Customizer
+Maintainer: SarahH12099 <sarahh12099@gmail.com>
+Author: SarahH12099 <sarahh12099@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Replaces: net.sarahh12099.youtubereborn
+Version: 1.0.7.3
+Filename: ./debs/youtubereborn.deb
+Size: 106544
+MD5sum: 70954b2823388f985cac1f5d8e6799db
+Depiction: http://fewly1.giyhub.io/fewly1/depictions/?p=youtubereborn
