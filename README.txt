@@ -1,1 +1,1 @@
-Betternet Hack by fewly1
+http://fewly1.github.io
