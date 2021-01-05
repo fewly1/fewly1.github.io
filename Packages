@@ -27,3 +27,18 @@ Size: 376630
 MD5sum: 64a2806148602bc9b272b52036633ae0
 Filename: ./debs/SocialDownloader.deb
 Depiction: http://fewly1.giyhub.io/fewly1/depictions/?p=SocialDownloader
+
+Package: youtube-reborn
+Name: YouTube Reborn
+Architecture: iphoneos-arm
+Description: YouTube Customizer
+Maintainer: fewly1 <fewly1.github.io>
+Author: SarahH12099 <sarahh12099@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
+Version: 1.0.7.3
+Size: 106544
+MD5sum: 70954b2823388f985cac1f5d8e6799db
+Depiction: https://fewly1.github.io/package/com.twickd.sarahh12099.youtube-reborn
+Tag: compatible_min::ios12.0, compatible_max::ios14.2

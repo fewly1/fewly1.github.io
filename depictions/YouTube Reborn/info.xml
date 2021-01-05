@@ -1,7 +1,7 @@
 <package>
-	<id>com.elias.socialdownloader</id>
-	<name>Social Downloader</name>
-	<version>1.2-1</version>
+	<id>com.twickd.sarahh12099.youtube-reborn</id>
+	<name>YouTube Reborn</name>
+	<version>1.0.7.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Download videos from social media apps</shortDescription>
+	<shortDescription>YouTube Customizer apps</shortDescription>
 	<descriptionlist>
-		<description>Download videos from social media apps</description>
+		<description>YouTube Customizer apps</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -21,11 +21,11 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Download videos from social media apps</description>
+			<description>YouTube Customizer apps</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>Download videos from social media apps</description>
+			<description>YouTube Customizer apps</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
