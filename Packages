@@ -108,3 +108,18 @@ Description: Add LunarCalender
 Filename: ./debs/Lunartime.deb
 Size: 27284
 MD5sum: b580eaf6657b4ec22be4f0f4d28b4e40
+
+Package: apphack
+Name: Apps Hacks
+Author: hmodei96
+Description: Hacks vip tren appstore
+Maintainer: MainRepo
+Version: 4.4
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Depiction: Hacks vip tren appstore
+Architecture: iphoneos-arm
+Filename: ./debs/apphack_4.4.deb
+Size: 3143308
+MD5sum: 1a6a180f4691a3cf731d7a769328882c
+Icon: https://pbs.twimg.com/profile_images/1312097082736508928/vdn6-ztz_bigger.jpg
