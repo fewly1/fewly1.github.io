@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+          <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	       </dict>
+
+
+
+   
+
+                        <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic272.png</string>
+			<key>label</key>
+		        <string>AdBlocker</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/5oqsa1cx03dftlk/AdBlocker_1.1_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic110.png</string>
+			<key>label</key>
+		        <string>BlockersSpy</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/1l9ja4vykh5l6m6/BlockersSpy_2.8_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic266.png</string>
+			<key>label</key>
+		        <string>Boostly</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/337yq2jag06av9r/Boostly_1.3_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/cleaner.png</string>
+			<key>label</key>
+		        <string>Cleaner</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/7hb9afiq8qos1pa/Cleaner_5.3_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic275.png</string>
+			<key>label</key>
+		        <string>FollowTokPlus</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/ttciielfdq1jgb3/FolllowTokPlus_1.3_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic274.png</string>
+			<key>label</key>
+		        <string>FollowerBoostr</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/00oxlsy2yseg1wf/FollowerBoost_2.1.1_hmodei96.ipa/file</string>
+		        </dict>
+
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic276.png</string>
+			<key>label</key>
+		        <string>Followers HD for Instagram</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/nr0xz8rt3sun6ct/Followers+HD+for+Instagram_1.4.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic277.png</string>
+			<key>label</key>
+		        <string>Followers Plus on Instagram</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/bsyxa82gil2mqmr/Followers+Plus+on+Instagram_1.3.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic278.png</string>
+			<key>label</key>
+		        <string>Followers for Instagram</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/cbmg71x9czjrn8q/Followers+UP+++for+Instagram_2.0.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic259.png</string>
+			<key>label</key>
+		        <string>Followers</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/48v7p7bv58d10oo/Followers_3.5.2_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic279.png</string>
+			<key>label</key>
+		        <string>Followers2</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/n2wca2y3vrpgztb/Followers_6.0.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic113.png</string>
+			<key>label</key>
+		        <string>Get Followers</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/y8r0nslxsdgg7r8/Get+Followers_1.0.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic132.png</string>
+			<key>label</key>
+		        <string>Get Likes Pro</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/45bn22dp9xtbu62/Get+Likes+Pro_8.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic280.png</string>
+			<key>label</key>
+		        <string>GetLikes</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/lf07u5zwpetnwfd/GetLikes_1.3.1_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic179.png</string>
+			<key>label</key>
+		        <string>imfigures</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/cpdqzy2u012wmyj/imfigures_1.0.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic281.png</string>
+			<key>label</key>
+		        <string>InstaReport</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/9l3y242wvspo8gm/InstaReport_5.8.3_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic168.png</string>
+			<key>label</key>
+		        <string>InstaReport</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/9l3y242wvspo8gm/InstaReport_5.8.3_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic139.png</string>
+			<key>label</key>
+		        <string>LikePotion</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/uq0j3xdws0b7lc7/LikePotion_4.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic144.png</string>
+			<key>label</key>
+		        <string>IstLike</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/h2870g27lrnj5yk/IstLike_4.2.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic106.png</string>
+			<key>label</key>
+		        <string>Liker_Analyzer</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/43dy57o5m2cpszv/Liker+Analyzer_2.0.7_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic107.png</string>
+			<key>label</key>
+		        <string>Magic Likes</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/kiphes8ucwsqh00/MagicLiker_4.01_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic219.png</string>
+			<key>label</key>
+		        <string>MagiCam</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/spypno957kjqqyz/MagiCam_2.2.1_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic111.png</string>
+			<key>label</key>
+		        <string>MagicLiker</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/kiphes8ucwsqh00/MagicLiker_4.01_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic119.png</string>
+			<key>label</key>
+		        <string>NewInsTracker</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/rychvfl8sinr60f/NewInsTracker_3.7_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic282.png</string>
+			<key>label</key>
+		        <string>Pocket Anatomy</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/x3a9ruw41cajzwx/Pocket+Anatomy_6.1_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic288.png</string>
+			<key>label</key>
+		        <string>RubaScattiNew</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/os5w3t74bte47i6/RubaScattiNew_1.1_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/.png</string>
+			<key>label</key>
+		        <string>SnapLenses</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/2jigqdq9gs48npj/SnapLenses_1.2.1_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic277.png</string>
+			<key>label</key>
+		        <string>SoonerFriends</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/bxd8kq3fmbkn222/SoonerFriends_1.1.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic112.png</string>
+			<key>label</key>
+		        <string>StalkersSpy</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/piutjaxqhvjxb3q/StalkersSpy_1.5_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic289.png</string>
+			<key>label</key>
+		        <string>StarAva</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/rvvwc1pfgshmfpq/StarAva_1.3.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic129.png</string>
+			<key>label</key>
+		        <string>TikFans</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/qtjqbft1rhqnctf/TikFans_1.1_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic127.png</string>
+			<key>label</key>
+		        <string>TikHype</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/cz8ykgid4werzre/TikHype_1.4.2_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic138.png</string>
+			<key>label</key>
+		        <string>TikStar</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/r4vdfe4ifvt20ye/TikStar_1.6_hmodei96_.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic287.png</string>
+			<key>label</key>
+		        <string>مسلسلات رمضان</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/j6w5yscin040gm4/مسلسلات+رمضان+_3.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic283.png</string>
+			<key>label</key>
+		        <string>تابعني انستقرام</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/6sow0zhioek9tzv/تابعني+انستقرام_1.6.0_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/.png</string>
+			<key>label</key>
+		        <string>دراما رمضان</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>http://www.mediafire.com/file/lsv9zr61a406rpf/%25D8%25AF%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A7_%25D8%25B1%25D9%2585%25D8%25B6%25D8%25A7%25D9%2586.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic284.png</string>
+			<key>label</key>
+		        <string>سنابرز</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/qzfpwujxubczxqw/سنابرز_1.0.4_hmodei96.ipa/file</string>
+		        </dict>
+
+ <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pic285.png</string>
+			<key>label</key>
+		        <string>ضيفني إنستغرام</string>
+			<key>subtitle</key>
+			<string>Link App</string>
+			<key>url</key>
+                        <string>https://www.mediafire.com/file/j5l1a5goipv9ih4/ضيفني+إنستغرام_1.5_hmodei96.ipa/file</string>
+		        </dict>
+
+ 
+
+ 
+
+    	                <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+                        <string>COPYRIGHT By iOS tweaksm 2020</string>
+         </dict>
+
+	</array>
+	<key>title</key>
+	<string>ᔕTOᖇE</string>
+</dict>
+</plist>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+          <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+          <key>label</key>
+         <string>Thanks for designer icons</string>
+          </dict>
+
+          <dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Cholie </string>
+			<key>user</key>
+			<string>Cholie95</string>
+		   </dict>
+
+<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+          <key>label</key>
+          <string>Thanks For translated</string>
+      </dict>
+
+<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+		<string>Applecafe </string>
+			<key>user</key>
+			<string>applecafe8</string>
+		   </dict>
+
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+          <key>label</key>
+          <string>Thanks for help</string>
+      </dict>
+
+          <dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+		<string> عبداللة ال سعدي</string>
+			<key>user</key>
+			<string>aboodremax2</string>
+		   </dict>
+
+          <dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Ahmed Makls </string>
+			<key>user</key>
+			<string>ahmedmakls</string>
+		   </dict>
+
+          <dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Azozz ALFiras </string>
+			<key>user</key>
+			<string>AzozzALFiras</string>
+		   </dict>
+
+<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>iTamara </string>
+			<key>user</key>
+			<string>IOStamara</string>
+		   </dict>
+
+         
+
+    <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>COPYRIGHT By iOS tweaksm 2020</string>
+	 </dict>
+	</array>
+	<key>title</key>
+	<string>Special Thanks</string>
+</dict>
+</plist>

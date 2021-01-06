@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+     <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	  </dict>
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/.png</string>
+       <key>key</key>
+       <string>spr112</string>
+       <key>label</key>
+       <string>Home WorkOuts</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>HomeWorkOuts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/.png</string>
+       <key>key</key>
+       <string>inapp</string>
+       <key>label</key>
+       <string>اللعيب</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>aleab</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic51.png</string>
+       <key>key</key>
+       <string>spr</string>
+       <key>label</key>
+       <string>365Scores</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Scores</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic103.png</string>
+       <key>key</key>
+       <string>key70</string>
+       <key>label</key>
+       <string>Running</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Running</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/fitn.png</string>
+       <key>key</key>
+       <string>fit</string>
+       <key>label</key>
+       <string>Fitness</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fitness</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/timepage.png</string>
+       <key>key</key>
+       <string>tim</string>
+       <key>label</key>
+       <string>Timepage</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Timepage</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/alltr.png</string>
+       <key>key</key>
+       <string>trs</string>
+       <key>label</key>
+       <string>AllTrails</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AllTrails</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/livecycle.png</string>
+       <key>key</key>
+       <string>lie</string>
+       <key>label</key>
+       <string>Life Cycle</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Cycle</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/lifesum.png</string>
+       <key>key</key>
+       <string>lim</string>
+       <key>label</key>
+       <string>Lifesum</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Lifesum</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/myfit.png</string>
+       <key>key</key>
+       <string>mil</string>
+       <key>label</key>
+       <string>MyFitnessPal</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>MyFitnessPal</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/starva.png</string>
+       <key>key</key>
+       <string>sra</string>
+       <key>label</key>
+       <string>Strava</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Strava</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/livead.png</string>
+       <key>key</key>
+       <string>key7</string>
+       <key>label</key>
+       <string>Life Advisor</string>
+       </dict>
+
+       <dict>
+      <key>action</key>
+      <string>Advisor</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic251.png</string>
+       <key>key</key>
+       <string>key107</string>
+       <key>label</key>
+       <string>FizzUp</string>
+       </dict>
+
+       <dict>
+      <key>action</key>
+      <string>FizzUp</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/mnabah.png</string>
+       <key>key</key>
+       <string>mnabah</string>
+       <key>label</key>
+       <string>منبه السعرات الحرارية</string>
+       </dict>
+
+       <dict>
+      <key>action</key>
+      <string>mnabah</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/FUDC.png</string>
+       <key>key</key>
+       <string>FUDCc</string>
+       <key>label</key>
+       <string>FUDC</string>
+       </dict>
+
+       <dict>
+      <key>action</key>
+      <string>FUDC</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/tabbing.png</string>
+       <key>key</key>
+       <string>key107</string>
+       <key>label</key>
+       <string>تابع لايف</string>
+       </dict>
+
+       <dict>
+      <key>action</key>
+      <string>tabbing</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+
+
+        
+
+         	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+<string>COPYRIGHT By iOS tweaksm 2020</string>
+          </dict>
+
+	</array>
+	<key>title</key>
+	<string>ᏚᏢᏫᎡᎿᏚ ᎻᎬᎯ ᏞᎿᎻ</string>
+</dict>
+</plist>

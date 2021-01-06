@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+    <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	</dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/weather.png</string>
+       <key>key</key>
+       <string>wwr</string>
+       <key>label</key>
+       <string>Weather Live</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>WeatherLive</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic43.png</string>
+       <key>key</key>
+       <string>key9</string>
+       <key>label</key>
+       <string>Night Sky</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>NightSky</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic44.png</string>
+       <key>key</key>
+       <string>acc</string>
+       <key>label</key>
+       <string>AccuWeather</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AccWeather</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/flay24.png</string>
+       <key>key</key>
+       <string>fly</string>
+       <key>label</key>
+       <string>Flightradar24</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>flay</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic45.png</string>
+       <key>key</key>
+       <string>alr</string>
+       <key>label</key>
+       <string>AlertsPro</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AlertsPro</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic46.png</string>
+       <key>key</key>
+       <string>key2</string>
+       <key>label</key>
+       <string>Eve</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Eve</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic47.png</string>
+       <key>key</key>
+       <string>key3</string>
+       <key>label</key>
+       <string>Flo</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Flo</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic48.png</string>
+       <key>key</key>
+       <string>key25</string>
+       <key>label</key>
+       <string>Paloma</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Paloma</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic49.png</string>
+       <key>key</key>
+       <string>key25</string>
+       <key>label</key>
+       <string>Weather Radar</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>WeatherRadar</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic50.png</string>
+       <key>key</key>
+       <string>key27</string>
+       <key>label</key>
+       <string>Windy</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Windy</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/any.png</string>
+       <key>key</key>
+       <string>any</string>
+       <key>label</key>
+       <string>Any.do</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Anyyyy</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/hip.png</string>
+       <key>key</key>
+       <string>hip</string>
+       <key>label</key>
+       <string>hip.</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>hip</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+      <string>icon/planeslive.png</string>
+       <key>key</key>
+       <string>pln</string>
+       <key>label</key>
+       <string>Planes Live</string>
+       </dict>
+
+       <dict>
+      <key>action</key>
+      <string>PlanesLive</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+   
+
+    	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+<string>COPYRIGHT By iOS tweaksm 2020</string>
+     </dict>
+
+	</array>
+	<key>title</key>
+	<string>ᗯEᗩTᕼEᖇ ᑕᗩᒪEᑎᗪᗩᖇ</string>
+</dict>
+</plist>

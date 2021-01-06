@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+          <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	       </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/tasbiih.png</string>
+       <key>key</key>
+       <string>ttasbiih</string>
+       <key>label</key>
+       <string>تسبيح</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>tasbiih</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/AthanPro.png</string>
+       <key>key</key>
+       <string>AthanPro</string>
+       <key>label</key>
+       <string>Athan Pro</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AthanPro</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/muslimpro.png</string>
+       <key>key</key>
+       <string>muslimpro</string>
+       <key>label</key>
+       <string>مسلم برو</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>muslimpro</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/MuslimPrayer.png</string>
+       <key>key</key>
+       <string>MuslimPrayer</string>
+       <key>label</key>
+       <string>Muslim Prayer</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>MuslimPrayer</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Ramadan.png</string>
+       <key>key</key>
+       <string>Ramadan</string>
+       <key>label</key>
+       <string>Ramadan</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Ramadan</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/adan.png</string>
+       <key>key</key>
+       <string>adan</string>
+       <key>label</key>
+       <string>اذان بلاس</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>adan</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Athan.png</string>
+       <key>key</key>
+       <string>Athan</string>
+       <key>label</key>
+       <string>Athan</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Athan</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Hadith.png</string>
+       <key>key</key>
+       <string>key116</string>
+       <key>label</key>
+       <string>Hadith</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Hadith</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/timepray.png</string>
+       <key>key</key>
+       <string>timepray</string>
+       <key>label</key>
+       <string>اوقات الصلاة</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>timepray</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/IslamicWorld.png</string>
+       <key>key</key>
+       <string>IslamicWorld</string>
+       <key>label</key>
+       <string>Islamic World</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>IslamicWorld</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/IslamicStories.png</string>
+       <key>key</key>
+       <string>IslamicStories</string>
+       <key>label</key>
+       <string>Islamic Stories</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>IslamicStories</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Islamicc.png</string>
+       <key>key</key>
+       <string>Islamicc</string>
+       <key>label</key>
+       <string>Islamicc</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Islamicc</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Hisnalmuslim.png</string>
+       <key>key</key>
+       <string>Hisnalmuslim</string>
+       <key>label</key>
+       <string>Hisn al muslim</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Hisnalmuslim</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/AthannPro2.png</string>
+       <key>key</key>
+       <string>AthannPro2</string>
+       <key>label</key>
+       <string>Athann Pro 2</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AthannPro2</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Azan.png</string>
+       <key>key</key>
+       <string>Azan</string>
+       <key>label</key>
+       <string>Azan</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Azan</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/alaslaty.png</string>
+       <key>key</key>
+       <string>alaslaty</string>
+       <key>label</key>
+       <string>الا صلاتي</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>alaslaty</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/alaslaty2.png</string>
+       <key>key</key>
+       <string>alaslaty2</string>
+       <key>label</key>
+       <string>2الا صلاتي</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>alaslaty2</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/slatyhaty.png</string>
+       <key>key</key>
+       <string>slatyhaty</string>
+       <key>label</key>
+       <string>صلاتي حياتي</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>slatyhaty</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Salat.png</string>
+       <key>key</key>
+       <string>Salat</string>
+       <key>label</key>
+       <string>Salat</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Salat</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/muslimmate.png</string>
+       <key>key</key>
+       <string>ttasbiih</string>
+       <key>label</key>
+       <string>muslim mate</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>muslimmate</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/ScanHalal.png</string>
+       <key>key</key>
+       <string>ScanHalal</string>
+       <key>label</key>
+       <string>Scan Halal</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScanHalal</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/MuslimP.png</string>
+       <key>key</key>
+       <string>MuslimP</string>
+       <key>label</key>
+       <string>Muslim P</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>MuslimP</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+
+          <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>   
+          </dict>
+    
+          <dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+	                <string>Apps Hacks </string>
+			<key>user</key>
+			<string>iOSTweaksm</string>
+		   </dict>
+
+          <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>         
+          </dict>
+
+          <dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>iconn/pay.png</string>
+			<key>label</key>
+		<string>PayPal</string>
+			<key>subtitle</key>
+			<string>Support Me</string>
+			<key>url</key>
+<string>https://www.paypal.me/hmodei96</string>
+		</dict>
+
+    	   <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+<string>COPYRIGHT By iOS tweaksm 2020</string>
+         </dict>
+
+	</array>
+	<key>title</key>
+	<string>Muslim Apps</string>
+</dict>
+</plist>

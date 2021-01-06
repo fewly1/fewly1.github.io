@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+      <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	   </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic81.png</string>
+       <key>key</key>
+       <string>key50</string>
+       <key>label</key>
+       <string>Adobe Scan</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AdobeScan</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic82.png</string>
+       <key>key</key>
+       <string>key60</string>
+       <key>label</key>
+       <string>Scan Master</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScanMaster1</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic83.png</string>
+       <key>key</key>
+       <string>key61</string>
+       <key>label</key>
+       <string>Scan Master</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScanMaster2</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic84.png</string>
+       <key>key</key>
+       <string>key52</string>
+       <key>label</key>
+       <string>CPU-x</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>CPUx</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic85.png</string>
+       <key>key</key>
+       <string>key54</string>
+       <key>label</key>
+       <string>Fun Sticker</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FunSticker</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic86.png</string>
+       <key>key</key>
+       <string>key56</string>
+       <key>label</key>
+       <string>LiveWallpapers for Me</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>LiveWallpapersforMe</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic88.png</string>
+       <key>key</key>
+       <string>key65</string>
+       <key>label</key>
+       <string>Wallpapersfor Me</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>WallpapersforMe</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic87.png</string>
+       <key>key</key>
+       <string>key64</string>
+       <key>label</key>
+       <string>Super Cleaner</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SuperCleaner</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/plamistry.png</string>
+       <key>key</key>
+       <string>pal</string>
+       <key>label</key>
+       <string>Palmistry Decoder</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Palmistry</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pastel.png</string>
+       <key>key</key>
+       <string>pas</string>
+       <key>label</key>
+       <string>Pastel Keyboard</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PastelKeyboard</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pdfex.png</string>
+       <key>key</key>
+       <string>key112</string>
+       <key>label</key>
+       <string>PDF Expert</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Expert</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pdf3.png</string>
+       <key>key</key>
+       <string>pdo</string>
+       <key>label</key>
+       <string>PDF Pro3</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PDFPro</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+     <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+ <string>icon/Alfred Camera.png</string>
+       <key>key</key>
+       <string>alf</string>
+       <key>label</key>
+       <string>Alfred Camera</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AlfredCamera</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/ever.png</string>
+       <key>key</key>
+       <string>ece</string>
+       <key>label</key>
+       <string>Ever</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Ever</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/qrrea.png</string>
+       <key>key</key>
+       <string>qrr</string>
+       <key>label</key>
+       <string>QR Reader</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>QRReader</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/rainbow.png</string>
+       <key>key</key>
+       <string>rai</string>
+       <key>label</key>
+       <string>RainbowKey</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>RainbowKey</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/record.png</string>
+       <key>key</key>
+       <string>rec</string>
+       <key>label</key>
+       <string>Record</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Record</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/scanner.png</string>
+       <key>key</key>
+       <string>sca</string>
+       <key>label</key>
+       <string>Scanner PDF</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScannerPDF</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+ <string>icon/SmartCleaner@2x.png</string>
+       <key>key</key>
+       <string>sma</string>
+       <key>label</key>
+       <string>Smart Cleaner</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SmartCleaner</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/snapcalc.png</string>
+       <key>key</key>
+       <string>dae</string>
+       <key>label</key>
+       <string>SnapCalc</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SnapCalc</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/tadaa.png</string>
+       <key>key</key>
+       <string>tad</string>
+       <key>label</key>
+       <string>Tadaa</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Tadaa</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/trello.png</string>
+       <key>key</key>
+       <string>tre</string>
+       <key>label</key>
+       <string>Trello</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Trello</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/wattpad.png</string>
+       <key>key</key>
+       <string>wat</string>
+       <key>label</key>
+       <string>Wattpad</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Wattpad</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/weheart.png</string>
+       <key>key</key>
+       <string>weh</string>
+       <key>label</key>
+       <string>We Heart</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>WeHeart</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/wpsoffice.png</string>
+       <key>key</key>
+       <string>wps</string>
+       <key>label</key>
+       <string>Wpsoffice</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Wpsoffice</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/TextNow.png</string>
+       <key>key</key>
+       <string>tex</string>
+       <key>label</key>
+       <string>TextNow</string>
+       </dict>
+
+       <dict>
+       <key>action</key>
+       <string>TextNow</string>
+       <key>cell</key>
+       <string>PSButtonCell</string>
+       <key>label</key>
+       <string>Link App</string>
+      </dict>
+
+       
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/autocad.png</string>
+       <key>key</key>
+       <string>aut</string>
+       <key>label</key>
+       <string>AutoCAD</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>AutoCAD</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/ber.png</string>
+       <key>key</key>
+       <string>ber</string>
+       <key>label</key>
+       <string>Bear</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Bear</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/funime.png</string>
+       <key>key</key>
+       <string>fue</string>
+       <key>label</key>
+       <string>Funimate</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Funimate</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/isharing.png</string>
+       <key>key</key>
+       <string>isg</string>
+       <key>label</key>
+       <string>iSharing</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>iSharing</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/lastpass.png</string>
+       <key>key</key>
+       <string>las</string>
+       <key>label</key>
+       <string>LastPass</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>LastPass</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/planer5.png</string>
+       <key>key</key>
+       <string>plr</string>
+       <key>label</key>
+       <string>Planner 5D</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Plannerd</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/poct.png</string>
+       <key>key</key>
+       <string>pkt</string>
+       <key>label</key>
+       <string>Pocket</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Pocket</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/polaris.png</string>
+       <key>key</key>
+       <string>ofi</string>
+       <key>label</key>
+       <string>Polaris Office</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PolarisOffice</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/prizmo.png</string>
+       <key>key</key>
+       <string>pgo</string>
+       <key>label</key>
+       <string>Prizmo Go</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PrizmoGo</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/sleepzy.png</string>
+       <key>key</key>
+       <string>slp</string>
+       <key>label</key>
+       <string>Sleepzy</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Sleepzy</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/storyz.png</string>
+       <key>key</key>
+       <string>sro</string>
+       <key>label</key>
+       <string>StoryZ</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>StoryZ</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic20.png</string>
+       <key>key</key>
+       <string>cle</string>
+       <key>label</key>
+       <string>Contact Cleanup</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ContactCleanup</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic21.png</string>
+       <key>key</key>
+       <string>key62</string>
+       <key>label</key>
+       <string>GeoZilla</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>GeoZilla</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic22.png</string>
+       <key>key</key>
+       <string>key6</string>
+       <key>label</key>
+       <string>Infuse</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Infuse</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic23</string>
+       <key>key</key>
+       <string>key12</string>
+       <key>label</key>
+       <string>Phone Drive</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PhoneDrive</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic24.png</string>
+       <key>key</key>
+       <string>key13</string>
+       <key>label</key>
+       <string>Plex</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Plex</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic25.png</string>
+       <key>key</key>
+       <string>key14</string>
+       <key>label</key>
+       <string>Recorder Plus</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>RecorderPlus</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic26.png</string>
+       <key>key</key>
+       <string>key12</string>
+       <key>label</key>
+       <string>Safety Note</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SafetyNote</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic27.png</string>
+       <key>key</key>
+       <string>key12</string>
+       <key>label</key>
+       <string>Safety P+V</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SafetyP</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic28.png</string>
+       <key>key</key>
+       <string>key25</string>
+       <key>label</key>
+       <string>Scanner For Me</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScannerForMe</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic29.png</string>
+       <key>key</key>
+       <string>key14</string>
+       <key>label</key>
+       <string>Sleep Center</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SleepCenter</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic30.png</string>
+       <key>key</key>
+       <string>key20</string>
+       <key>label</key>
+       <string>Sleep Cycle</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SleepCycle</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic31.png</string>
+       <key>key</key>
+       <string>key14</string>
+       <key>label</key>
+       <string>Sleep Recorder</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SleepRecorder</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic32.png</string>
+       <key>key</key>
+       <string>key14</string>
+       <key>label</key>
+       <string>Snore Control</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SnoreControl</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic33.png</string>
+       <key>key</key>
+       <string>key22</string>
+       <key>label</key>
+       <string>SoundCloud</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SoundCloud</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic163.png</string>
+       <key>key</key>
+       <string>dif1</string>
+       <key>label</key>
+       <string>ImageSearch</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ImageSearch</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic161.png</string>
+       <key>key</key>
+       <string>dif2</string>
+       <key>label</key>
+       <string>Memes</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Memes</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic155.png</string>
+       <key>key</key>
+       <string>dif3</string>
+       <key>label</key>
+       <string>Radarbot</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Radarbot</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic250.png</string>
+       <key>key</key>
+       <string>dif4</string>
+       <key>label</key>
+       <string>Voice Changer</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>VoiceChanger</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic249.png</string>
+       <key>key</key>
+       <string>dif5</string>
+       <key>label</key>
+       <string>Relationship</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Relationship</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic248.png</string>
+       <key>key</key>
+       <string>dif6</string>
+       <key>label</key>
+       <string>HashTags</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>HashTags</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic247.png</string>
+       <key>key</key>
+       <string>dif7</string>
+       <key>label</key>
+       <string>Voice Calc</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>VoiceCalc</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic246.png</string>
+       <key>key</key>
+       <string>dif8</string>
+       <key>label</key>
+       <string>EPub Reader</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PubReader</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic245.png</string>
+       <key>key</key>
+       <string>dif9</string>
+       <key>label</key>
+       <string>Digital Clock</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>DigitalClock</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic243.png</string>
+       <key>key</key>
+       <string>dif10</string>
+       <key>label</key>
+       <string>File Master</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FileMaster</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic242.png</string>
+       <key>key</key>
+       <string>key104</string>
+       <key>label</key>
+       <string>ScannerTranslator</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScannerTranslator</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/EOBD_Facile.png</string>
+       <key>key</key>
+       <string>dif100</string>
+       <key>label</key>
+       <string>EOBD_Facile</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>EOBD_Facile</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/BrainFake.png</string>
+       <key>key</key>
+       <string>key110</string>
+       <key>label</key>
+       <string>Brain Fake</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>BrainFake</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/ParrotPoll.png</string>
+       <key>key</key>
+       <string>key110</string>
+       <key>label</key>
+       <string>Parrot Poll</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ParrotPoll</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/MagicPatterns.png</string>
+       <key>key</key>
+       <string>key110</string>
+       <key>label</key>
+       <string>Magic Patterns</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>MagicPatterns</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Raybench.png</string>
+       <key>key</key>
+       <string>key110</string>
+       <key>label</key>
+       <string>Raybench</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Raybench</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Flaychat.png</string>
+       <key>key</key>
+       <string>key110</string>
+       <key>label</key>
+       <string>Flaychat</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Flaychat</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Morse.png</string>
+       <key>key</key>
+       <string>key110</string>
+       <key>label</key>
+       <string>Morse</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Morse</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Documents2.png</string>
+       <key>key</key>
+       <string>key112</string>
+       <key>label</key>
+       <string>Documents</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Documents2</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/Clone.png</string>
+       <key>key</key>
+       <string>innnnn</string>
+       <key>label</key>
+       <string>Clone</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Clone</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/numberbook.png</string>
+       <key>key</key>
+       <string>numberook</string>
+       <key>label</key>
+       <string>نمبر بوك الخليج</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>numberbook</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/ScaanerMini.png</string>
+       <key>key</key>
+       <string>Scaanermini</string>
+       <key>label</key>
+       <string>Scaaner Mini</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ScaanerMini</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+
+    	   <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+<string>COPYRIGHT By iOS tweaksm 2020</string>
+     </dict>
+
+	</array>
+	<key>title</key>
+	<string>ᗪIᖴᖴEᖇEᑎT ᗩᑭᑭᔕ</string>
+</dict>
+</plist>

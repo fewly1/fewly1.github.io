@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict> 
+	<key>items</key>
+	<array>
+
+          <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	       </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic186.png</string>
+       <key>key</key>
+       <string>key83</string>
+       <key>label</key>
+       <string>Font1</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Font1</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic180.png</string>
+       <key>key</key>
+       <string>key82</string>
+       <key>label</key>
+       <string>Fonts1</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts1</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic178.png</string>
+       <key>key</key>
+       <string>key84</string>
+       <key>label</key>
+       <string>Cool Fonts</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>CoolFonts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic173.png</string>
+       <key>key</key>
+       <string>key85</string>
+       <key>label</key>
+       <string>FancyKeyPro</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FancyKeyPro</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/fontca.png</string>
+       <key>key</key>
+       <string>key46</string>
+       <key>label</key>
+       <string>Font Candy</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Font</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic154.png</string>
+       <key>key</key>
+       <string>fon1</string>
+       <key>label</key>
+       <string>Text Designer</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>TextDesigner</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic169.png</string>
+       <key>key</key>
+       <string>fon2</string>
+       <key>label</key>
+       <string>Fonts2</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts2</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic166.png</string>
+       <key>key</key>
+       <string>fon3</string>
+       <key>label</key>
+       <string>Better Fonts</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>BetterFonts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic172.png</string>
+       <key>key</key>
+       <string>fon4</string>
+       <key>label</key>
+       <string>Fonts For You</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FontsForYou</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic181.png</string>
+       <key>key</key>
+       <string>fon5</string>
+       <key>label</key>
+       <string>Fonts3</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts3</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic177.png</string>
+       <key>key</key>
+       <string>fon6</string>
+       <key>label</key>
+       <string>Fontbot</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fontbot</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic174.png</string>
+       <key>key</key>
+       <string>fon7</string>
+       <key>label</key>
+       <string>Newfonts</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Newfonts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic175.png</string>
+       <key>key</key>
+       <string>fon8</string>
+       <key>label</key>
+       <string>Fonts4</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts4</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic182.png</string>
+       <key>key</key>
+       <string>fon9</string>
+       <key>label</key>
+       <string>Big Emoji</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>BigEmoji</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic185.png</string>
+       <key>key</key>
+       <string>fon10</string>
+       <key>label</key>
+       <string>Good Fonts</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Goodfonts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic188.png</string>
+       <key>key</key>
+       <string>fon11</string>
+       <key>label</key>
+       <string>SnapchatFonts</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>SnapchatFonts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic187.png</string>
+       <key>key</key>
+       <string>fon12</string>
+       <key>label</key>
+       <string>Fonts5</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts5</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic164.png</string>
+       <key>key</key>
+       <string>fon13</string>
+       <key>label</key>
+       <string>Fancy text</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fancytext</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic165.png</string>
+       <key>key</key>
+       <string>fon14</string>
+       <key>label</key>
+       <string>Font Keyboard</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FontKeyboard</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic184.png</string>
+       <key>key</key>
+       <string>fon15</string>
+       <key>label</key>
+       <string>FancyFonts</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FancyFonts</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic189.png</string>
+       <key>key</key>
+       <string>fon16</string>
+       <key>label</key>
+       <string>Font Changer</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>FontChanger</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic133.png</string>
+       <key>key</key>
+       <string>fon17</string>
+       <key>label</key>
+       <string>Fonts6</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts6</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic153.png</string>
+       <key>key</key>
+       <string>fon18</string>
+       <key>label</key>
+       <string>Fonts7</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts7</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic157.png</string>
+       <key>key</key>
+       <string>fon19</string>
+       <key>label</key>
+       <string>Fonts8</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts8</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic130.png</string>
+       <key>key</key>
+       <string>fon20</string>
+       <key>label</key>
+       <string>Fonts9</string>
+      </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Fonts9</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+
+    	   <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+<string>COPYRIGHT By iOS tweaksm 2020</string>
+         </dict>
+
+	</array>
+	<key>title</key>
+	<string>ᖴOᑎTᔕ_KEYᗷOᗩᖇᗪ</string>
+</dict>
+</plist>

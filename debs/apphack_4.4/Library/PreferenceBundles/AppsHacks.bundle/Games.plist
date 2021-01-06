@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+    <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>AppsHacks.png</string>
+	</dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic94.png</string>
+       <key>key</key>
+       <string>key25</string>
+       <key>label</key>
+       <string>Scratchable</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Scratchable</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic99.png</string>
+       <key>key</key>
+       <string>key62</string>
+       <key>label</key>
+       <string>شعلة</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>shal</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic95.png</string>
+       <key>key</key>
+       <string>key59</string>
+       <key>label</key>
+       <string>Recolor</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Recolor</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+      <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/elevate.png</string>
+       <key>key</key>
+       <string>ele</string>
+       <key>label</key>
+       <string>Elevate</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Elevate</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic4.png</string>
+       <key>key</key>
+       <string>key34</string>
+       <key>label</key>
+       <string>Paint Number</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>PaintNumber</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic5.png</string>
+       <key>key</key>
+       <string>key34</string>
+       <key>label</key>
+       <string>Color Number</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ColorNumber</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic64.png</string>
+       <key>key</key>
+       <string>col</string>
+       <key>label</key>
+       <string>Colorfy</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Colorfy</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic65.png</string>
+       <key>key</key>
+       <string>key25</string>
+       <key>label</key>
+       <string>Eggzy</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Eggzy</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic66.png</string>
+       <key>key</key>
+       <string>key14</string>
+       <key>label</key>
+       <string>Wheel of Choice</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>Wheel</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+       <dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+ <string>com.hmodeisxrepo.apphack</string>
+       <key>icon</key>
+       <string>icon/pic67.png</string>
+       <key>key</key>
+       <string>key49</string>
+       <key>label</key>
+       <string>Coloring Book</string>
+       </dict>
+
+      <dict>
+      <key>action</key>
+      <string>ColoringBook</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Link App</string>
+      </dict>
+
+
+    	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+<string>COPYRIGHT By iOS tweaksm 2020</string>
+     </dict>
+
+	</array>
+	<key>title</key>
+	<string>ᎶᎯ ᎷᎬᏚ</string>
+</dict>
+</plist>

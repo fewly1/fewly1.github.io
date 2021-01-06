@@ -1,0 +1,13 @@
+Package: com.fely1.apphack
+Name: Apps Hacks
+Author: hmodei96
+Description: Hacks vip tren appstore
+Maintainer: MainRepo
+Version: 4.4
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Depiction: Hacks vip tren appstore
+Architecture: iphoneos-arm
+Filename: ./debs/apphack_4.4.deb
+Size: 3143308
+MD5sum: 1a6a180f4691a3cf731d7a769328882c
