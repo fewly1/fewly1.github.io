@@ -122,3 +122,19 @@ Architecture: iphoneos-arm
 Filename: ./debs/apphack_4.4.deb
 Size: 3143308
 MD5sum: 1a6a180f4691a3cf731d7a769328882c
+
+Package: fewly1.cercube
+Version: 5.2.11
+Priority: optional
+Section: Tweaks
+Maintainer: fewly1
+Description: Bổ sung tính năng cho Youtube
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Name: Cercube YouTube !
+Author: Majd Alfhaily
+Depiction: https://fewly1.github.io/
+Filename: ./debs/cercube_youtube.deb
+Size: 5976932
+MD5sum: 4c320f93bfd40e5d935396a0c04768df
