@@ -139,20 +139,3 @@ Filename: ./debs/nsfwgram.deb
 Size: 5216
 MD5sum: 6278bf5828dc2502db6a8b31c7f1c741
 
-Package: youtube-reborn
-Name: YouTube Reborn
-Architecture: iphoneos-arm
-Description: YouTube Customizer
-Maintainer: SarahH12099 <sarahh12099@gmail.com>
-Author: SarahH12099 <sarahh12099@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
-Replaces: net.sarahh12099.youtubereborn
-Version: 1.0.7.5
-Depiction: https://repo.twickd.com/package/com.twickd.sarahh12099.youtube-reborn
-SileoDepiction: https://repo.twickd.com/package/com.twickd.sarahh12099.youtube-reborn/native
-Tag: compatible_min::ios12.0, compatible_max::ios14.2
-Filename: ./debs/YouTube Reborn.deb
-Size: 107660
-MD5sum: 4c3fcc85b9ea66f5474c193dc40cd37a
