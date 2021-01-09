@@ -125,3 +125,18 @@ Filename: ./debs/cercube_youtube.deb
 Size: 5976932
 MD5sum: 4c320f93bfd40e5d935396a0c04768df
 
+Architecture: iphoneos-arm
+Package: nsfwgram
+Name: NSFWgram
+Version: 0.0.6
+Depiction: http://fewly1.github.io/
+Description: View explicit channels/groups in Telegram (5.11+)
+Homepage: https://wuffs.org/
+Section: Tweaks
+Depends: firmware (>=6.0), mobilesubstrate
+Author: Ash Wolf (Ninji) <ninji@wuffs.org>
+Maintainer: Ash Wolf (Ninji) <ninji@wuffs.org>
+Filename: ./debs/nsfwgram.deb
+Size: 5216
+MD5sum: 6278bf5828dc2502db6a8b31c7f1c741
+
