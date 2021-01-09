@@ -1,7 +1,7 @@
 <package>
 	<id>org.wuffs.nsfwgram</id>
 	<name>NSFWgram</name>
-	<version>1.2-1</version>
+	<version>0.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
