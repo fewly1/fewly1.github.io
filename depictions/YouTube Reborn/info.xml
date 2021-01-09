@@ -1,7 +1,7 @@
 <package>
-	<id>org.wuffs.nsfwgram</id>
-	<name>NSFWgram</name>
-	<version>0.0.6</version>
+	<id>com.twickd.sarahh12099.youtube-reborn</id>
+	<name>YouTube Reborn</name>
+	<version>1.0.7.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -10,12 +10,12 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>View explicit channels/groups in Telegram (5.11+)!</shortDescription>
+	<shortDescription>YouTube Customizer</shortDescription>
 	<descriptionlist>
-		<description>View explicit channels/groups in Telegram (5.11+)!!</description>
+		<description>YouTube Customizer</description>
 		<description>It has more description lines.</description>
 		<description><![CDATA[
-		You can also have<br/> 
+		You can also have<br/>
 		a multi-line item.
 		]]>
 		</description>
@@ -24,11 +24,11 @@
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
