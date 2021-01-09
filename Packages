@@ -129,7 +129,6 @@ Architecture: iphoneos-arm
 Package: nsfwgram
 Name: NSFWgram
 Version: 0.0.6
-Depiction: http://fewly1.github.io/
 Description: View explicit channels/groups in Telegram (5.11+)
 Homepage: https://wuffs.org/
 Section: Tweaks
