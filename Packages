@@ -15,19 +15,6 @@ Filename: ./debs/youtube-reborn.deb
 Size: 182678 
 MD5sum: feb133b2f439b259501d34cee2ed55e6
 
-Package: starvpnpatch
-Name: Star VPN
-Author: Randy420 <(null)>
-Description: Starvpn Premium 
-Depends: mobilesubstrate
-Maintainer: Randy420 <(null)>
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/starvpnpatch.deb
-Size: 10486
-MD5sum: c19399921aa45f8307c7abd860da4bb8
-
 Package: cercube
 Version: 5.2.11N
 Priority: optional
@@ -45,20 +32,6 @@ Filename: ./debs/cercube_5.2.11.deb
 Size: 5976960
 MD5sum: c9de3bc0c90257c3ca7a532cb6231228
 
-Package: lunartime
-Version: 0.1
-Section: Tweaks
-Maintainer: fewly1
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Name: LunarTime
-Author: fahlnbg
-Tag: purpose::extension
-Description: Add LunarCalender
-Filename: ./debs/lunartime.deb
-Size: 27588
-MD5sum: 0528bdebe3dd16611863a9f687fb4904
-
 Package: rocket
 Version: 3.7.17
 Priority: optional
@@ -74,3 +47,19 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Filename: ./debs/rocket_3.7.17.deb
 Size: 6076702
 MD5sum: 99a85188c259d151fe50616536739851
+
+Package: flyjbx
+Name: FlyJB X
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Conflicts: flyjb
+Architecture: iphoneos-arm
+Description:  ẩn jailbreak
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 1.0.10
+Filename: ./debs/flyjbx.deb
+Size: 491270
+MD5sum: d6b06725a4ae060f2e223d2818756ae2
+
