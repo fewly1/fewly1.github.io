@@ -63,3 +63,15 @@ Filename: ./debs/flyjbx.deb
 Size: 491270
 MD5sum: d6b06725a4ae060f2e223d2818756ae2
 
+Package: freepip
+Name: FreePIP
+Version: 0.0.5
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: Soh Satoh
+Maintainer: fewly1
+Description: Picture-in-Picture
+Filename: ./debs/freepip.deb
+Size: 9748
+MD5sum: 0e5418ceabd853956726ad988a79aadb
