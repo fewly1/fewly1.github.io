@@ -63,17 +63,177 @@ Filename: ./debs/flyjbx.deb
 Size: 491270
 MD5sum: d6b06725a4ae060f2e223d2818756ae2
 
-Package: freepip
+Package: com.fewly1.appdatamanager
+Name: Apps Manager
+Author: TIGI Software <satashi2009@gmail.com>
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: fewly1
+Version: 1.6.0-9k
+Section: Utilities
+Depends: firmware (>= 7.0)
+Depiction: fewly1
+Architecture: iphoneos-arm
+Icon: https://cydia.saurik.com/icon/com.tigisoftware.appdatamanager.png
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./debs/com.fewly1.appdatamanager_1.6.0-9k_iphoneos-arm.deb
+Size: 3709388
+MD5sum: aebdcc82ce06e2770e4b336302c4eed6
+
+Package: com.fewly1.Flex3-98
+Name: Flex3
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Description: Develop your own tweaks
+Maintainer: fewly1
+Author: John coates
+Section: Tweaks
+Filename: ./debs/com.fewly1.Flex3-98_1/3~Beta98_iphoneos-arm.deb
+Size: 14346562
+MD5sum: 745141ad65ff6abc70ac902c125b5858
+
+Package: com.fewly1.freepip
 Name: FreePIP
 Version: 0.0.3
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000)
-Author: Soh Satoh
-Maintainer: fewly1
-Description: Picture-in-Picture
+Author: fewly1
+Maintainer: Soh Satoh
+Description: Picture-in-Picture 
 Filename: ./debs/freepip.deb
-Size: 9864
-MD5sum: 8a714dcad040aab47c74bf731e12c319
+Size: 9544
+MD5sum: 55de65ca0b0dfa2a67a62ec76347e6a8
+
+Package: com.fewly1.IPA
+Name: Trích FILE IPA
+Author: c0pyn1nja
+Description: Trích File IPA một ứng dụng bất kỳ mà bạn muốn.Mình đã test trên ios 11&14 đều hoạt động rất ok nhé Các Bạn.
+Maintainer: fewly1
+Version: 1.1.1
+Section: System
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+Filename: ./debs/ipa.deb
+Size: 9962122
+MD5sum: ed981e2686afbdc0a80648983720e094
+
+Package: com.fewly1.lunartime
+Version: 0.1
+Section: Tweaks
+Maintainer: FEWLY1
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Name: LunarTime
+Author: fahlnbg
+Tag: purpose::extension
+Description: Add LunarCalender
+Filename: ./debs/lunartime.deb
+Size: 27276
+MD5sum: db2131b4a0b37d278ec136969cf8c7d9
+
+Package: com.fewly1.shuffle
+Version: 1.2.9
+Section: Tweaks
+Maintainer: fewly1
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Description: Phân chia các mục trong Cài đặt của bạn!
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Name: Shuffle VN
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/shuffle.deb
+Size: 394898
+MD5sum: 688d3dd8d1eca12312d676ac59308e3f
+
+Package: com.fewly1.starvpnpatch
+Name: Star VPN
+Author: Randy420 <(null)>
+Description: Starvpn Premium 
+Depends: mobilesubstrate
+Maintainer: Randy420 <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/starvpn.deb
+Size: 10190
+MD5sum: 7a18fca2848c78592a42379c6c376524
+
+Author: Agricu <1004571093@qq.com>
+Maintainer: fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Name: Tiktok TQ No QC
+Package: com.fewly1.tiktoknoads
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Section: Tweaks
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Chặn tất cả Quảng cáo,Tải video không có Logo,tự phắt tiếp Video.Hỗ trợ từ Ios 9 đến ios 14.2.!
+Homepage: fewly1
+Sponsor: <http://fewly1.github.io>
+dev: agricu
+Tag: purpose::extension, compatible::ios13
+Filename: ./debs/tiktokchina.deb
+Size: 20552
+MD5sum: 5817f2c99c17677352bb10d28111b687
+
+Package: com.fewly1.tinder
+Name: Tinder Modded
+Author: 0xAya
+Description: Tinder vip
+Depends: mobilesubstrate
+Maintainer: fewly1
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0-1+debug
+Filename: ./debs/tindervip.deb
+Size: 12726
+MD5sum: aafd80784a408693423420bdbc5fe23e
+
+Package: com.fewly1.vpnmasterhack
+Name: VPN Master
+Author: md.furman
+Description: VPN Máter vip
+Maintainer: MainRepo
+Version: 1.1-1
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: fewly1
+Architecture: iphoneos-arm
+Filename: ./debs/vpnmasterhack.deb
+Size: 6214
+MD5sum: e25b74b1d6d998640d30ab32c4514699
+
+Package: com.fewly1.youtopia
+Name: YouTopia
+Author: sinfool
+Description: Youtube: No Home Feed Ads, No Video Ads, Enable Background Playback
+Maintainer: fewly
+Version: 0.0.2
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: fewly1
+Architecture: iphoneos-arm
+Icon: https://mainrepo.org/CydiaIcon.png
+Filename: ./debs/youtopia.deb
+Size: 5692
+MD5sum: d936f3db55b6a90bacdbd23d32c30bdc
+
+
+
+
+
+
+
+
 
 
