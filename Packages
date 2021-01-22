@@ -27,3 +27,20 @@ Version: 0.0.1
 Filename: ./debs/starvpnpatch.deb
 Size: 10486
 MD5sum: c19399921aa45f8307c7abd860da4bb8
+
+Package: cercube
+Version: 5.2.11N
+Priority: optional
+Section: Tweaks
+Maintainer: fewly1
+Description: Bổ sung tính năng cho Youtube!
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Name: Cercube YouTube VN
+Author: Majd Alfhaily
+Depiction: Fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/cercube_5.2.11.deb
+Size: 5976960
+MD5sum: c9de3bc0c90257c3ca7a532cb6231228
