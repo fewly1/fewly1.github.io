@@ -55,6 +55,22 @@ Name: LunarTime
 Author: fahlnbg
 Tag: purpose::extension
 Description: Add LunarCalender
-Filename: ./debs/unartime.deb
+Filename: ./debs/lunartime.deb
 Size: 27588
 MD5sum: 0528bdebe3dd16611863a9f687fb4904
+
+Package: rocket
+Version: 3.7.17
+Priority: optional
+Section: Tweaks
+Maintainer: fewly1
+Description: Bổ sung các tính năng cho Instagram
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Name: Rocket Instagram VN
+Author: Majd Alfhaily
+Depiction: fewly1.github.io
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: ./debs/rocket_3.7.17.deb
+Size: 6076702
+MD5sum: 99a85188c259d151fe50616536739851
