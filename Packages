@@ -1,0 +1,16 @@
+Package: youtube-reborn
+Name: YouTube Reborn
+Architecture: iphoneos-arm
+Description: YouTube 
+Maintainer: SarahH12099 
+Author: SarahH12099 
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
+Replaces: net.sarahh12099.youtubereborn
+Version: 1.0.7.3
+Depiction: https://fewly1.github.io
+Tag: compatible_min::ios12.0, compatible_max::ios14.2
+Filename: ./debs/youtube-reborn.deb
+Size: 182678 
+MD5sum: feb133b2f439b259501d34cee2ed55e6
