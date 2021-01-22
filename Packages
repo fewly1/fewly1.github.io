@@ -14,3 +14,16 @@ Tag: compatible_min::ios12.0, compatible_max::ios14.2
 Filename: ./debs/youtube-reborn.deb
 Size: 182678 
 MD5sum: feb133b2f439b259501d34cee2ed55e6
+
+Package: starvpnpatch
+Name: Star VPN
+Author: Randy420 <(null)>
+Description: Starvpn Premium 
+Depends: mobilesubstrate
+Maintainer: Randy420 <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/starvpnpatch.deb
+Size: 10486
+MD5sum: c19399921aa45f8307c7abd860da4bb8
