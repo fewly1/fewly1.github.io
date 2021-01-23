@@ -235,12 +235,14 @@ Maintainer: fewly1
 Description: Kích hoạt bản quyền cho các ứng dụng trả phí.
 Depends: mobilesubstrate, ws.hbang.common
 Architecture: iphoneos-arm
-Installed-Size: 3143312
+Installed-Size: 6220
 Name: Apps Hacks
 Author: hmodei96
 Depiction: fewly1.github.io
 Filename: ./debs/appshacks_4.deb
+Size: 3143312
 MD5sum: 0d222a09d55d385e5b911db8804292f4
+
 
 
 
