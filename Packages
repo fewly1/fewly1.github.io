@@ -9,6 +9,7 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
 Replaces: net.sarahh12099.youtubereborn
 Version: 1.0.7.3
+Installed-Size: 944
 Depiction: https://fewly1.github.io
 Tag: compatible_min::ios12.0, compatible_max::ios14.2
 Filename: ./debs/youtube-reborn.deb
@@ -25,6 +26,7 @@ Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
 Architecture: iphoneos-arm
 Name: Cercube YouTube VN
+Installed-Size: 17080
 Author: Majd Alfhaily
 Depiction: Fewly1
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
@@ -55,6 +57,7 @@ Conflicts: flyjb
 Architecture: iphoneos-arm
 Description:  ẩn jailbreak
 Maintainer: XsF1re
+Installed-Size: 1128
 Author: XsF1re
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
@@ -69,6 +72,7 @@ Author: TIGI Software <satashi2009@gmail.com>
 Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
 Maintainer: fewly1
 Version: 1.6.0-9k
+Installed-Size: 9122
 Section: Utilities
 Depends: firmware (>= 7.0)
 Depiction: fewly1
@@ -91,7 +95,7 @@ Description: Develop your own tweaks
 Maintainer: fewly1
 Author: John coates
 Section: Tweaks
-Filename: ./debs/com.fewly1.Flex3-98_1/3~Beta98_iphoneos-arm.deb
+Filename: ./debs/fewly1.Flex398.deb
 Size: 14346562
 MD5sum: 745141ad65ff6abc70ac902c125b5858
 
@@ -100,6 +104,7 @@ Name: FreePIP
 Version: 0.0.3
 Section: Tweaks
 Architecture: iphoneos-arm
+Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Author: fewly1
 Maintainer: Soh Satoh
@@ -125,6 +130,7 @@ MD5sum: ed981e2686afbdc0a80648983720e094
 Package: com.fewly1.lunartime
 Version: 0.1
 Section: Tweaks
+Installed-Size: 160
 Maintainer: FEWLY1
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
@@ -139,6 +145,7 @@ MD5sum: db2131b4a0b37d278ec136969cf8c7d9
 Package: com.fewly1.shuffle
 Version: 1.2.9
 Section: Tweaks
+Installed-Size: 1928
 Maintainer: fewly1
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Description: Phân chia các mục trong Cài đặt của bạn!
@@ -175,6 +182,7 @@ Package: com.fewly1.tiktoknoads
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
 Section: Tweaks
+Installed-Size: 163
 Version: 1.3
 Architecture: iphoneos-arm
 Description: Chặn tất cả Quảng cáo,Tải video không có Logo,tự phắt tiếp Video.Hỗ trợ từ Ios 9 đến ios 14.2.!
@@ -194,6 +202,7 @@ Depends: mobilesubstrate
 Maintainer: fewly1
 Architecture: iphoneos-arm
 Section: Tweaks
+Installed-Size: 136
 Version: 1.0-1+debug
 Filename: ./debs/tindervip.deb
 Size: 12726
@@ -206,6 +215,7 @@ Description: VPN Máter vip
 Maintainer: MainRepo
 Version: 1.1-1
 Section: Tweaks
+Installed-Size: 116
 Depends: mobilesubstrate
 Depiction: fewly1
 Architecture: iphoneos-arm
@@ -223,6 +233,7 @@ Section: Tweaks
 Depends: mobilesubstrate
 Depiction: fewly1
 Architecture: iphoneos-arm
+Installed-Size: 152
 Icon: https://mainrepo.org/CydiaIcon.png
 Filename: ./debs/youtopia.deb
 Size: 5692
