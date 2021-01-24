@@ -441,6 +441,19 @@ Filename: ./debs/pulloverprovitho_2.1.1.deb
 Size: 1562662
 MD5sum: 4db81975efa0715691a3f992f5213ef2
 
+Package: com.fewly1.icon
+Version: 1.0
+Section: System
+Essential: yes
+Maintainer: fewly1
+Description: Biểu tượng Cydia cho kho lưu trữ fewly1
+Architecture: iphoneos-arm
+Name: Icon Repo F
+Author: fewly1
+Filename: ./debs/com.fewly.deb
+Size: 27366
+MD5sum: 4dbdbc79f6165012a7d43e1acbd10861
+
 
 
 
