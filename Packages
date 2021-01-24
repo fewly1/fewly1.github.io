@@ -454,4 +454,20 @@ Filename: ./debs/com.fewly1.icon.deb
 Size: 22824
 MD5sum: 27be98f5b65a130b0ad7f143a0f63032
 
-
+Name: CHPUBG
+Package: com.fewly.chpubg
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: Công cụ xóa các tệp trò chơi và tệp đăng nhập để bạn không bị vắng mặt lệnh cấm,
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: fewly1 <bigboss@thebigboss.org>
+Author: Thx <abdulmajeed-35@hotmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 1533
+dev: thx
+Filename: ./debs/chpubg.deb
+Size: 986068 
+MD5sum: 1b07d53d0ca766834fd7e4aaa8be8b6d
