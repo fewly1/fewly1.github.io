@@ -487,3 +487,20 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
 Filename: ./debs/emerald.deb
 Size: 378860
 MD5sum: 34972100520d9cf667fd1023a705727e
+
+Package: com.fewly1.ytuhd
+Name: YTUHD SW
+Architecture: iphoneos-arm
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Maintainer: fewly1
+Author: fewly1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: fewly1
+Version: 0.0.3.7
+Installed-Size: 136
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Filename: ./debs/ytuhd.deb
+Size: 4284
+MD5sum: 90398141a1b613316809dfa08c6f43ea
+
