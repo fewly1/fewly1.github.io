@@ -472,18 +472,3 @@ Filename: ./debs/chpubg.deb
 Size: 986068 
 MD5sum: 1b07d53d0ca766834fd7e4aaa8be8b6d
 
-Package: com.fewly1.emerald
-Version: 1.0.3
-Section: Tweaks
-Maintainer: fewly1
-Description: Hiển thị các tiện ích trên thanh trạng thái.
-Depends: mobilesubstrate, com.laughingquoll.prefixui
-Architecture: iphoneos-arm
-Installed-Size: 2628
-Name: Emerald VN
-Author: LaughingQuoll
-Depiction: http://fewly1.github.io
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
-Filename: ./debs/emerald.deb
-Size: 378860
-MD5sum: 34972100520d9cf667fd1023a705727e
