@@ -504,3 +504,87 @@ Filename: ./debs/ytuhd.deb
 Size: 4284
 MD5sum: 90398141a1b613316809dfa08c6f43ea
 
+Package: com.fewly1..youtubelite
+Name: YouTubeLite Việt Hoá
+Version: 0.9.2-beta
+Description: YoutubeLite Việt hoá
+ Công dụng:
+ * Chặn quảng cáo
+ * Phát lại nền
+ * Ẩn nút truyền
+ * Ẩn nút tải xuống
+ * Tắt cửa sổ bật lên
+ * Thay đổi kiểu MiniPlayer
+ * Tắt nhấn đúp
+ * Mở rộng Menu chia sẻ
+ * Tắt tự động phát
+ * Chế độ Ipad
+ + Hỗ trợ youtube phiên bản mới nhất!
+Author: Networke <re.errornetwork@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 562
+Section: Tweaks
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Architecture: iphoneos-arm
+Maintainer: fewly1 <nhatbien97@gmail.con>
+Filename: ./debs/com.fewly1..youtubelite_0.9.2-beta_iphoneos-arm.deb
+Size: 55908
+MD5sum:279f71c62d3cfffedcb6b4f9e0d182cb
+
+Package: com.fewly1.afsocial
+Version: 1.2
+Section: Tweaks
+Maintainer: fewly1
+Description: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
+Depends: mobilesubstrate
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+Replaces: sileot.afsocial
+Architecture: iphoneos-arm
+Installed-Size: 6500
+Name: AFSocial Việt Hoá
+Author: Azozz ALFiras
+Depiction: Thêm nhiều tính năng cho các ứng dụng mạng xã hội.
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Filename: ./debs/com.fewly1.afsocial_1.2_iphoneos-arm.deb
+Size: 2168768
+MD5sum: dc82100a41ff0cf987d07f32ca5d5ce0
+
+Author: akusio
+Maintainer: fewly1
+Name: KernBypass VN
+Package: com.fewly1.kernbypassVN
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Section: System
+Architecture: iphoneos-arm
+Description: kernel level jailbreak detection bypass.
+Depiction: fewly1
+dev: akusio, Misty, Bvn, XsF1re 
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/Cydia.app/Sections/hethonggg.png
+Version: 0.0.5
+Installed-Size: 920
+Filename: ./debs/com.fewly1.kernbypassvn_0.0.5_iphoneos-arm.deb
+Size: 142420
+MD5sum: 883a276c71ec03584185e97119b5282f
+
+Package: com.fewly1.translationvitho
+Name: Translation Việt Hoá
+Version: 1.4.9
+Architecture: iphoneos-arm
+Description: Cong cụ dịch miễn phí
+ Công dụng:
+ - Dịch nhanh các tài liệu và văn bản
+ - Bạn chỉ cần bôi đen phần chữ rồi chọn Translation để dịch nó ra tiếng mà bạn cần.
+Author: Sky - Pain <2398453359@qq.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhh.png
+Maintainer: fewly1
+Filename: ./debs/com.fewly1.translationvitho_1.4.9_iphoneos-arm.deb
+Size: 117964
+MD5sum: e3f0d5caccddbd76835a56ed3268d877
+
+
