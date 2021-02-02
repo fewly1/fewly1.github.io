@@ -50,21 +50,6 @@ Filename: ./debs/rocket_3.7.17.deb
 Size: 6076702
 MD5sum: 99a85188c259d151fe50616536739851
 
-Package: flyjbx
-Name: FlyJB X
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Conflicts: flyjb
-Architecture: iphoneos-arm
-Description:  ẩn jailbreak
-Maintainer: XsF1re
-Installed-Size: 1128
-Author: XsF1re
-Section: Tweaks
-Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
-Version: 1.0.10
-Filename: ./debs/flyjbx.deb
-Size: 491270
-MD5sum: d6b06725a4ae060f2e223d2818756ae2
 
 Package: com.fewly1.appdatamanager
 Name: Apps Manager
@@ -635,3 +620,33 @@ Installed-Size: 1552
 Filename: ./debs/com.fewly.flyjbx_1.1.5_iphoneos-arm.deb
 Size: 632552
 MD5sum: 9caf38727923564f5633430738628ac8
+
+Package: com.fewly1.lunartime
+Version: 1.0.1
+Section: Tweaks
+Maintainer: fahlnbg
+Depends: mobilesubstrate (>= 0.9.5000), libfah , ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 356
+Name: LunarTime
+Author: fahlnbg
+Description: An awesome MobileSubstrate tweak!
+Depiction: âm lịch
+Filename: ./debs/com.fahlnbg.lunartime_1.0.deb
+Size: 56394
+MD5sum: c0fba07c7ce8c4692ad2ea8ecd1d0960
+
+Package: libfah
+Version: 0.1
+Section: System
+Maintainer: fahlnbg
+Architecture: iphoneos-arm
+Installed-Size: 176
+Name: libFAH
+Author: fahlnbg
+Tag: role::developer
+Description: An awesome library of some sort!!
+Depiction: hổ trợ lich am
+Filename: ./debs/libfah_0.deb
+Size: 32662
+MD5sum: 1f304ad8e220e9e0e7f052bc53119ebf
