@@ -620,3 +620,18 @@ Installed-Size: 6792
 Filename: ./debs/com.fewly1.newterm2_2.5_iphoneos-arm.deb
 Size: 2181356
 MD5sum: 5db05ccf893a675b6dde108d99e0b6f4
+
+Package: kr.xsf1re.flyjbx
+Name: FlyJB X
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 1.1.5
+Installed-Size: 1552
+Filename: ./debs/com.fewly.flyjbx_1.1.5_iphoneos-arm.deb
+Size: 632552
+MD5sum: 9caf38727923564f5633430738628ac8
