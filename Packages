@@ -621,7 +621,7 @@ Filename: ./debs/com.fewly1.newterm2_2.5_iphoneos-arm.deb
 Size: 2181356
 MD5sum: 5db05ccf893a675b6dde108d99e0b6f4
 
-Package: kr.xsf1re.flyjbx
+Package: com.fewly.flyjbx
 Name: FlyJB X
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
