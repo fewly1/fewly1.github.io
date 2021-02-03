@@ -238,6 +238,7 @@ Depiction: fewly1.github.io
 Filename: ./debs/appshacks_4.deb
 Size: 3143312
 MD5sum: 0d222a09d55d385e5b911db8804292f4
+Depiction: https://fewly1.github.io/depictions/?p=com.fewly1.appshacks
 
 Name: Unity60FPS Việt Hoá
 Package: com.fewly-60fps.fgotw60FPS
