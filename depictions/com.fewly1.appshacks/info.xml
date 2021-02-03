@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
+			<maxIOS>14.5</maxIOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -16,7 +17,7 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>ảnh chụp màn hình</description>
+			<description>một vài mô tả vè ảnh chụp màn hình</description>
 			<image>apphacks.jpg</image>
 		</screenshot>		
 		<screenshot>
