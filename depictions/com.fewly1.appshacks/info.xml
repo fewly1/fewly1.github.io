@@ -10,30 +10,22 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Kích hoạt bản quyền cho các ứng dụng trả phí.!!</shortDescription>
+	<shortDescription>Kích hoạt bản quyền cho các ứng dụng trả phí!</shortDescription>
 	<descriptionlist>
-		<description>Kích hoạt bản quyền cho các ứng dụng trả phí!</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>tinh chỉnh giúp kích hoạt vip cho nhièu úng dụng miẽn phí!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>ảnh chụp màn hình</description>
+			<image>apphacks.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia1.jpg</image>
+			<description>ảnh chụp màn hình</description>
+			<image>apphacks1.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>dả cập nhạt bản mói nhất</change>
 	</changelog>
 	<links>
 		<link>
